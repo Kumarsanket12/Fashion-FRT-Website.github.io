@@ -1,7 +1,7 @@
 # Fashion-FRT-WebsiteProject.github.io
 
 My Future Ready Talent Project Link:-  
-
+https://gentle-desert-0c1562910.2.azurestaticapps.net
 
 #Home
 ![1](https://user-images.githubusercontent.com/109533920/209975726-82a5daa7-c311-449f-b79b-b2ac6a5efc3f.png)
