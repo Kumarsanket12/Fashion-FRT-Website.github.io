@@ -9,7 +9,7 @@ Industry : Lifestyle
 
 Project Title : Fashion-FRT-Website Project
 
-Problem Statement/Opportunity : In my Website I Create a fashion store website that helps to find cheap rate and good quality Products to help the people to fulfill their desired needs.
+Problem Statement/Opportunity : In my Website I Create a fashion store website that helps to find cheap rate and good quality Products to help the people to fulfill their desired needs. I Created four pages named Home, About, Services, Contact Us looks like professional Website.
 
 Project Description : I have created a fashion store website named Fashion-FRT-Website Project using html, css, javascript. Its helps the Customer to finds the good products in the website .I Created four pages named Home, About, Services, Contact Us looks like professional Website. A good portfolio website is a perfect way to showcase your work to potential clients, and every creative should have one. With the help of this Website I can Sell my Fashion Products Cheaper & affordable price. I am Trying to solve the real world problem like in these days we are searching good and genuine products here and there. So I Made a web app Where I try to give every products details. My Project Helps Both the Customer and Seller. Like For seller I create a very Beautiful User Design That attract easily and also helps the Customer to get the products in their doorsteps and genuine Products.If any customer as to enquire about the package then they can get instant reply by asking their enquiry they will be contacted immediately through their given mail and phone no for the package booking.It is a 24 x 7 service availble.
 
