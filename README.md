@@ -1,5 +1,5 @@
 
-Microsoft Future Ready Talent Virtual Internship Program
+Microsoft Future Ready Talent Virtual Internship Program. This is Front End website.
 
 Web Technologies used: HTML, CSS, JS, Bootstrap
 
