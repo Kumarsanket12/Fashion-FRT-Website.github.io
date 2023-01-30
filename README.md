@@ -2,16 +2,16 @@
                                        
 This is a web based application developed for fashion related website.
 
-**This web based future application has been developed for the accomplishment of Future Ready Talent Intership Program Launched By Microsoft, Future skills Prime, Github. 
+This web based future application has been developed for the accomplishment of Future Ready Talent Intership Program Launched By Microsoft, Future skills Prime, Github. 
 
 My Future Ready Talent Project Link:- https://gentle-desert-0c1562910.2.azurestaticapps.net/      
 Project demo video link:- https://youtu.be/fEqnAuPM7aM
 
-**Azure technologies used for project:-
+#Azure technologies used for project:-
 ->Azure Bot Service
 ->Static Web Apps
 
-**Features and Functionalities:-😊
+#Features and Functionalities:-😊
 
 Project Title : Fashion-FRT-Website Project
 
@@ -43,7 +43,7 @@ Project Description : I have created a fashion store website named Fashion-FRT-W
 #Contact Us 
 ![Contact](https://user-images.githubusercontent.com/109533920/209979605-a70a166f-e728-4fbb-accc-4c179f2001ea.png)
 
-**Web Technologies used: 
+#Web Technologies used: 
 ->HTML
 ->CSS
 ->Javascript
