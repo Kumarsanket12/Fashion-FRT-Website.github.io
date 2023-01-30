@@ -43,6 +43,15 @@ Project Description : I have created a fashion store website named Fashion-FRT-W
 #Contact Us 
 ![Contact](https://user-images.githubusercontent.com/109533920/209979605-a70a166f-e728-4fbb-accc-4c179f2001ea.png)
 
+#Azure technologies Screenshort:-
+->Static Web App:-
+![Static Web App](https://user-images.githubusercontent.com/109533920/215558177-2d91c557-b616-48d4-bdf3-ba9634439805.png)
+
+->Media Service:-
+![Media Service](https://user-images.githubusercontent.com/109533920/215558259-e892f7fd-7dad-4552-85cf-49bd45349dfc.png)
+
+
+
 #Web Technologies used: 
 ->HTML
 ->CSS
