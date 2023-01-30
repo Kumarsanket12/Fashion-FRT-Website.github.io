@@ -45,12 +45,10 @@ Project Description : I have created a fashion store website named Fashion-FRT-W
 
 #Azure technologies Screenshort:-
 ->Static Web App:-
-![Static Web App](https://user-images.githubusercontent.com/109533920/215558177-2d91c557-b616-48d4-bdf3-ba9634439805.png)
+![Static Web App](https://user-images.githubusercontent.com/109533920/215559693-b1e80ab9-e416-4471-8429-a7172e98b02e.png)
 
 ->Media Service:-
-![Media Service](https://user-images.githubusercontent.com/109533920/215558259-e892f7fd-7dad-4552-85cf-49bd45349dfc.png)
-
-
+![Media Service](https://user-images.githubusercontent.com/109533920/215559712-f65ba14a-13a9-4643-8ce9-a363801b37d1.png)
 
 #Web Technologies used: 
 ->HTML
