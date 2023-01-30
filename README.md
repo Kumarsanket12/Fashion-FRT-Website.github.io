@@ -1,11 +1,15 @@
+                         *********Fashion*********
+This is a web based application developed for fashion related website.
 
-Microsoft Future Ready Talent Virtual Internship Program. This is Front End website.
+This web based future application has been developed for the accomplishment of Future Ready Talent Intership Program Launched By Microsoft, Future skills Prime, Github. 
 
-Web Technologies used: HTML, CSS, JS, Bootstrap
+My Future Ready Talent Project Link:- https://gentle-desert-0c1562910.2.azurestaticapps.net/      Project demo video link:- https://youtu.be/fEqnAuPM7aM
 
-IDE: VS-Code
+#Azure technologies used for project:-
+->Azure Bot Service
+->Static Web Apps
 
-Industry : Lifestyle
+#Features and Functionalities:-
 
 Project Title : Fashion-FRT-Website Project
 
@@ -13,15 +17,6 @@ Problem Statement/Opportunity : In my Website I Create a fashion store website t
 
 Project Description : I have created a fashion store website named Fashion-FRT-Website Project using html, css, javascript. Its helps the Customer to finds the good products in the website .I Created four pages named Home, About, Services, Contact Us looks like professional Website. A good portfolio website is a perfect way to showcase your work to potential clients, and every creative should have one. With the help of this Website I can Sell my Fashion Products Cheaper & affordable price. I am Trying to solve the real world problem like in these days we are searching good and genuine products here and there. So I Made a web app Where I try to give every products details. My Project Helps Both the Customer and Seller. Like For seller I create a very Beautiful User Design That attract easily and also helps the Customer to get the products in their doorsteps and genuine Products.If any customer as to enquire about the package then they can get instant reply by asking their enquiry they will be contacted immediately through their given mail and phone no for the package booking.It is a 24 x 7 service availble.
 
-Primary Azure Technology : Azure Bot Service, Web, Static Web Apps
-
-Other Azure Technologies : App Service
-
-My Future Ready Talent Project Link:-  
-https://gentle-desert-0c1562910.2.azurestaticapps.net
-
-My Project Youtube Video Link:-  
-https://youtu.be/fEqnAuPM7aM
 
 #Home
 ![1](https://user-images.githubusercontent.com/109533920/209975726-82a5daa7-c311-449f-b79b-b2ac6a5efc3f.png)
@@ -45,5 +40,10 @@ https://youtu.be/fEqnAuPM7aM
 
 #Contact Us 
 ![Contact](https://user-images.githubusercontent.com/109533920/209979605-a70a166f-e728-4fbb-accc-4c179f2001ea.png)
+
+#Web Technologies used: 
+->HTML
+->CSS
+->Javascript
 
 
